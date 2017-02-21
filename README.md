@@ -17,7 +17,7 @@ The bookings will be inserted in the Mundi software via API.
 
 #### Booking page
 - user will tell how many people for the booking (Adult/reduced)
-- to simplify , all pricess will be 20€ for adult, 10€ for reduced
+- to simplify , all pricess will be 20€ for adult, 10€ for reduced (total price should be shown in real time)
 - no real payment integration, the "PAY" button will just work and proceed with the booking
 
 #### Booking Confirmation
@@ -34,8 +34,7 @@ ___
 
 
 ### API Access
-- username populi.travels
-- password populi.travels!!2016
+
 - base url  https://staging.wave.live/api/v1
 
 ### API Docs
