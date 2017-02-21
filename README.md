@@ -27,11 +27,6 @@ and will provide a printable receipt with priority qrcode, and the access code (
 
 ___
 
-## Requirements
-- build an API client (no api calls in the controller), this will always call the api (no caching)
-- step 2: discuss how to improve the api client, cache data, and strategies to refresh the information periodically
-
-
 
 ### API Access
 
