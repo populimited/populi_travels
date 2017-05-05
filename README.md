@@ -1,6 +1,6 @@
 # Populi Travels website
 
-Populi travel is a new Tour Operator, which will work as a reseller of Vox Mundi Services in the vatican. 
+Populi travel is a new Tour Operator, which will work as a reseller of Vox Mundi Services in the Vatican. 
 The purpose of the website is to show available services, and allow customers to book activities. 
 The bookings will be inserted in the Mundi software via API.
 
