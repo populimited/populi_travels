@@ -36,6 +36,6 @@ https://mundistaging.populi.rocks/api_doc.html
 
 
 ### API Access
-- base url  https://mundistaging.populi.rocks/api/v1
+- base url  https://mundistaging.populi.rocks/api/v2
 
 
