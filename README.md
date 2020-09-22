@@ -31,9 +31,11 @@ ___
 ___
 
 
-### API Access
-
-- base url  https://staging.wave.live/api/v1
-
 ### API Docs
-https://wave.live/api_doc.html
+https://mundistaging.populi.rocks/api_doc.html
+
+
+### API Access
+- base url  https://mundistaging.populi.rocks/api/v1
+
+
