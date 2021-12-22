@@ -1,8 +1,12 @@
 # Populi Travels website
 
-Populi travel is a new Tour Operator, which will work as a reseller of Vox Mundi Services in the Vatican. 
-The purpose of the website is to show available services, and allow customers to book activities. 
-The bookings will be inserted in the Mundi software via API.
+Populi travel is a new Tour Operator, that will work as a reseller of Vox Mundi Services in the Vatican. 
+
+Out purpose is to build a website show available services, and allow customers to book activities.
+
+The bookings will be inserted in the Vox Mundi software via API.
+
+You can find Api documentation at the end of this document.
 
 
 
@@ -12,7 +16,7 @@ The bookings will be inserted in the Mundi software via API.
 - build a simple script that will use the client, and book the first possible availability of the first product for 2 "full" tickets
 
 
-## Step2 - Website
+## Step 2 - Website
 
 - Discussion about how to structure the project
 - Do we need a database ? 
@@ -37,9 +41,8 @@ The bookings will be inserted in the Mundi software via API.
 after the booking is confirmed and saved to mundi sw, this page will show the details
 and will provide a printable receipt with priority qrcode, and the access code (if available)
 
-___
 
-### ADD some tests
+## Step 3 - Add some tests
 ___
 
 
