@@ -4,8 +4,20 @@ Populi travel is a new Tour Operator, which will work as a reseller of Vox Mundi
 The purpose of the website is to show available services, and allow customers to book activities. 
 The bookings will be inserted in the Mundi software via API.
 
-## Pages
 
+
+## Step 1 - Api Wrapper
+
+- Build a client library for Vox Mundi API
+- build a simple script that will use the client, and book the first possible availability of the first product for 2 "full" tickets
+
+
+## Step2 - Website
+
+- Discussion about how to structure the project
+- Do we need a database ? 
+
+### Pages
 
 #### Home page
 
